@@ -1,2 +1,4 @@
 *.exe
 item.cpp
+*.py
+*.csv
