@@ -2,3 +2,5 @@
 item.cpp
 *.py
 *.csv
+items.csv
+i.py
